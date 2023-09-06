@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my Github profile. If I'm not committing here, I'm committing to my Georgia Tech Github account. That account is inaccessible outside of the organization, so here's a snapshot: 
+
+![2023-09-06_12-13](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/7675dcf7-94c1-4e3a-baf5-8442c408dddb)
+
+
 <!--
 **jayzerbeam/jayzerbeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
