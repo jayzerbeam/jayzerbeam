@@ -1,9 +1,14 @@
-### Hi there 👋
+## Welcome to my Github profile! 👾
 
-Welcome to my Github profile. If I'm not committing here, I'm committing to my Georgia Tech Github account. That account is inaccessible outside of the organization, so here's a snapshot: 
+If I'm not committing here, I'm committing to my Georgia Tech student Github account. University policy requires student repositories to be private, so here's a snapshot of my commit history:
 
 ![2023-09-06_12-13](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/7675dcf7-94c1-4e3a-baf5-8442c408dddb)
 
+### I'm currently working on...
+
+At GaTech: [Game Artificial Intelligence](https://omscs.gatech.edu/cs-7632-game-ai). 
+
+At home: The University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/). I've primarily worked on web application front ends (JavaScript, VueJS, ReactJS), but the entire stack is interesting to me. Programming resources are a dime a dozen on the web, so it's important to find quality resources. I've found this course to be top-notch.
 
 <!--
 **jayzerbeam/jayzerbeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
