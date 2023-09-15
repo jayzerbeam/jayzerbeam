@@ -1,8 +1,9 @@
-## 👾 Welcome to my Github profile! 👾
+## 👾 Welcome to my Github profile 👾
 
 If I'm not committing here, I'm committing to my Georgia Tech student Github account. University policy requires student repositories to be private, so here's a snapshot of my commit history:
 
-![2023-09-06_12-13](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/7675dcf7-94c1-4e3a-baf5-8442c408dddb)
+![2023-09-15_09-41](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/5af79bd4-8a31-412a-97c5-e97a41c5971e)
+
 
 ### 💻 I'm currently working on... 💻
 
