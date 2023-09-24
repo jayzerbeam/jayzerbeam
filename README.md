@@ -2,7 +2,7 @@
 
 If I'm not committing here, I'm committing to my Georgia Tech student Github account. University policy requires student repositories to be private, so here's a snapshot of my commit history:
 
-![2023-09-15_09-41](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/5af79bd4-8a31-412a-97c5-e97a41c5971e)
+![image](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/b105ce9a-bb4c-48e3-a043-ac1d8d0a8579)
 
 
 ### 💻 I'm currently working on... 💻
