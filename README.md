@@ -2,7 +2,7 @@
 
 If I'm not committing here, I'm committing to my Georgia Tech student Github account. University policy requires student repositories to be private, so here's a snapshot of my commit history:
 
-![image](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/b105ce9a-bb4c-48e3-a043-ac1d8d0a8579)
+![image](https://github.com/jayzerbeam/jayzerbeam/assets/9667667/1e0093db-c5dd-4d95-91d9-cec7bbdd47ba)
 
 
 ### 💻 I'm currently working on... 💻
@@ -13,6 +13,6 @@ At home: The University of Helsinki's [Full Stack Open](https://fullstackopen.co
 
 ### 🪐 Future work 🪐
 
-I plan to take [Computer Networks](https://omscs.gatech.edu/cs-6250-computer-networks) at Georgia Tech next semester. 
+I'm taking [Computer Networks](https://omscs.gatech.edu/cs-6250-computer-networks) at Georgia Tech next semester. 
 
 After I complete the Full Stack Open course, I'd like to contribute more often to Open Source projects on Github and to work through the classic [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/9780262510875/structure-and-interpretation-of-computer-programs/). I've already started the latter, but have paused it due to time constraints. 
